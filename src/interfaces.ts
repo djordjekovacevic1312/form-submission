@@ -5,5 +5,5 @@ export interface UserInfo {
     phone: {
       ext: string;
       number: string;
-    }
+    };
 }

@@ -26,10 +26,9 @@ const App = () => {
     name: "John Doe",
     phone: {
       ext: "00387",
-      number: "65/123-456",
+      number: "65/123-456"
     },
   });
-
 
   return (
     <div>
